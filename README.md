@@ -1,4 +1,4 @@
-# GroceryApp
+# Grocery-Management-App
 ### Feature 1
 Admin login
 ### Feature 2
