@@ -24,8 +24,8 @@ GST calculation
 ### Feature 12
 Offer for new user
 ### Feature 13
-Mobilenumber validation
-Password validation
-Name validation
-Number validation
+#### Mobilenumber validation
+#### Password validation
+#### Name validation
+#### Number validation
 
